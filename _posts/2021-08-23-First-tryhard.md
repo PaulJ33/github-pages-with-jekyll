@@ -1,3 +1,4 @@
+---
 title: "first-tryhard"
 date: 2021-02-05
 ---
